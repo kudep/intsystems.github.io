@@ -11,6 +11,7 @@
 | Alina Samokhina | 2 | Continous-in-time representations of signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code old](https://github.com/Alina-Samokhina/continuous_time_paper), [Paper published](http://www.ipiran.ru/journal_system/article/08696527220304.html), [Paper draft](https://www.overleaf.com/read/fcwdwfkhthnv), [Slides](https://www.overleaf.com/read/mhwjngzpfmps)|
 | Vasilii Novitskii | 2 | New Bounds for One-point Oracle in Stochastic Gradient-free Optimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper 1](https://arxiv.org/abs/2101.03821), [Paper 2](https://arxiv.org/abs/2103.00321), [Slides](https://drive.google.com/file/d/1XLs65z9Yir-h4kgtQK-7ccqIYKL4g4U9/view?usp=sharing), [Code](https://drive.google.com/file/d/1RUPsCpTCSvPb9WYWTK8ybV89Z1RKzudj/view?usp=sharing)|
 | Polina Potapova | 3 | Topic modeling for multilingual topic search | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.overleaf.com/7641677752mmzmcfghzydj), [Code](https://github.com/machine-intelligence-laboratory/text_categorization)|
+| Denis Kuznetsov | 4 | Neural network models of dialogue on general topics | [Burtsev M.S.](https://scholar.google.ru/citations?hl=ru&user=t_PLQakAAAAJ) | [Paper_1](https://drive.google.com/file/d/17PLgv8CTQvC0BkJq53Ct1t509lwVepUV/view?usp=sharing), [Paper_2](https://drive.google.com/file/d/1Gg1NUpwNLz42O0Zqp9JyPBSjI0ApzVYg/view?usp=sharing)|
 |  |  |  |  |  |
 
 
